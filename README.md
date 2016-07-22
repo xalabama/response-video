@@ -17,7 +17,8 @@ To use the response video function you only have to call the function like this:
     array( 
       'plattform'=>'youtube', 
       'link'=>'http://youtube.com/watch?v=QILiHiTD3uc' 
-    )); 
+    )
+  ); 
 ?>
 ```
 
