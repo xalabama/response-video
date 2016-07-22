@@ -12,7 +12,13 @@ Download the response_video.php and integrate it to your project like this:
 To use the response video function you only have to call the function like this:
 
 ```php
-<?php echo response_video( array( 'plattform'=>'youtube', 'link'=>'http://youtube.com/watch?v=QILiHiTD3uc' ) ); ?>
+<?php 
+  echo response_video( 
+    array( 
+      'plattform'=>'youtube', 
+      'link'=>'http://youtube.com/watch?v=QILiHiTD3uc' 
+    )); 
+?>
 ```
 
 You have to specify two settings to tell the function which video from what plattform you want to integrate. There are some other settings you can change. If you want to do that look to the section below.
