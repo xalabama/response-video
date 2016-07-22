@@ -1,4 +1,4 @@
-# Response Video Function 1.3.1
+# Response Video Function 1.3.2
 The Response Video Function will intigrate a full responsive video from plattforms like youtube, vimeo or dailymotion.
 
 ## Installation
