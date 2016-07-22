@@ -1,4 +1,13 @@
 ===========================
+VERSION 1.3.0 - 23.07.16
+===========================
+* New Option "start" 	- specifies the time (in seconds) from which the video should start playing
+* New Option "autoplay" - starts the playback of the video automatically after the player load
+* Bugfix - dailymotion videos are working now correctly
+* Bugfix - Option "info" works now for all plattforms
+* Bugfix - Option "controls" works also for dailymotion now
+
+===========================
 VERSION 1.2.1 - 13.07.16
 ===========================
 * New Options avalible (this time only for youtube usable)
