@@ -2,7 +2,7 @@
 
 /*
 ** Responsive video function
-** @version: 1.3.0
+** @version: 1.3.2
 ** @author: Sandro Rümmler
 ** @license: GNU GENERAL PUBLIC LICENSE
 **
