@@ -1,0 +1,8 @@
+===========================
+VERSION 1.2.1 - 13.07.16
+===========================
+* New Options avalible (this time only for youtube usable)
+* New Option "adds" 	- allows you to enable/disable adds for a video
+* New Option "controls" - allows you to enable/disable player control elements
+* New Option "info" 	- allows you to enable/disable player informations like title or actionbuttons
+* Bugfix - all variations of youtubelinks now are usable
