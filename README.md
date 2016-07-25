@@ -1,5 +1,5 @@
 # Response Video Function 1.3.2
-The Response Video Function will intigrate a full responsive video from plattforms like youtube, vimeo or dailymotion.
+The Response Video Function will integrate a full responsive video from plattforms like youtube, vimeo or dailymotion.
 
 ## Installation
 Download the response_video.php and integrate it to your project like this:
